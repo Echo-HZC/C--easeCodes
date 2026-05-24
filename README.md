@@ -1,4 +1,4 @@
-# C++-easeCodes
+# Cpp_easeCodes
 
 简单的 C++ 代码练习与示例，适合初学者参考。
 
