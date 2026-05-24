@@ -9,4 +9,4 @@
    ```bash
    git clone https://github.com/Echo-HZC/C++-easeCodes.git
 
-   #觉得有用？点个 ⭐ Star 支持一下！
+#觉得有用？点个 ⭐ Star 支持一下！
